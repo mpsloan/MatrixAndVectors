@@ -1,0 +1,4 @@
+The dot product of V1 * V3 is -0.000005 
+V1 and V2 should be 100000 elements long. V3 should be 100000 elements long
+The total diagonal is: -0.000005
+The total non-diagonal is: -0.000008
